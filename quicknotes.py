@@ -1,10 +1,11 @@
 #!/usr/bin/python
 
-import dmenu
 import os
 import subprocess
-import pyperclip
 import sys
+
+import dmenu
+import pyperclip
 # from zenipy import zenipy
 
 BASE_PATH = "/home/gerry/Documents/Notes"
