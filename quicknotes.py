@@ -6,7 +6,6 @@ import sys
 
 import dmenu
 import pyperclip
-# from zenipy import zenipy
 
 BASE_PATH = "/home/gerry/Documents/Notes"
 NUM_LINES = 20
